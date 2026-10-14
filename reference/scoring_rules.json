@@ -1,0 +1,170 @@
+[
+  {
+    "official_element_id": "eDispatch.01",
+    "raw_column": "eDispatch_01",
+    "domain": "eDispatch",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eDisposition.27",
+    "raw_column": "eDisposition_27",
+    "domain": "eDisposition",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eResponse.05",
+    "raw_column": "eResponse_05",
+    "domain": "eResponse",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eResponse.07",
+    "raw_column": "eResponse_07",
+    "domain": "eResponse",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eResponse.23",
+    "raw_column": "eResponse_23",
+    "domain": "eResponse",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eDispatch.02",
+    "raw_column": "eDispatch_02",
+    "domain": "eDispatch",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eArrest.01",
+    "raw_column": "eArrest_01",
+    "domain": "eArrest",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eArrest.02",
+    "raw_column": "eArrest_02",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.07",
+    "raw_column": "eArrest_07",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.11",
+    "raw_column": "eArrest_11",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.14",
+    "raw_column": "eArrest_14",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.16",
+    "raw_column": "eArrest_16",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.18",
+    "raw_column": "eArrest_18",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.20",
+    "raw_column": "eArrest_20",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.21",
+    "raw_column": "eArrest_21",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eArrest.22",
+    "raw_column": "eArrest_22",
+    "domain": "eArrest",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eArrest_01",
+    "trigger_values": "3001003|3001005"
+  },
+  {
+    "official_element_id": "eScene.01",
+    "raw_column": "eScene_01",
+    "domain": "eScene",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eScene.06",
+    "raw_column": "eScene_06",
+    "domain": "eScene",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eScene.07",
+    "raw_column": "eScene_07",
+    "domain": "eScene",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  },
+  {
+    "official_element_id": "eScene.08",
+    "raw_column": "eScene_08",
+    "domain": "eScene",
+    "rule_type": "TRIGGER_IN",
+    "trigger_column": "eScene_07",
+    "trigger_values": "9923003"
+  },
+  {
+    "official_element_id": "eScene.09",
+    "raw_column": "eScene_09",
+    "domain": "eScene",
+    "rule_type": "RAW_NOT_APPLICABLE",
+    "trigger_column": "",
+    "trigger_values": ""
+  }
+]

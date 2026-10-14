@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying EMS-RRI article. Add its final publication metadata when available."
+title: "EMS-RRI: scoring and analysis code"
+type: software
+authors:
+  - family-names: Barua
+    given-names: Sumit
+  - family-names: Mahmud
+    given-names: Bahar Uddin
+abstract: "Research implementation of applicability-aware documentation-completeness scoring and retrospective forward temporal analyses of EMS records."

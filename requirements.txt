@@ -1,0 +1,13 @@
+# Original exact versions were not supplied. This is not a replication lockfile.
+numpy
+pandas
+pyarrow
+scikit-learn
+xgboost
+scipy
+matplotlib
+joblib
+tqdm
+pypdf
+jupyterlab
+nbformat

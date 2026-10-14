@@ -1,0 +1,22 @@
+# Private inputs, generated records, predictions, models, and local environments
+work/
+datasets/
+results/
+models/
+revision_analysis/outputs/
+revision_forward_validation_corrected/
+*.parquet
+*.joblib
+*.pkl
+*.pickle
+*.zip
+*.csv
+*.npy
+*.npz
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
