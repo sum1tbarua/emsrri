@@ -4,7 +4,7 @@
 **Research code accompanying an accepted peer-reviewed manuscript:**
 
 > **Applicability-Aware Reliability Scoring and Prediction of EMS Patient-Care Records for Trustworthy Smart Ambulance AI**  
-> Sumit Barua, and Bahar Mahmud 
+> Sumit Barua, and Bahar Mahmud  
 > *AI* · Accepted 15 October 2026 · Publication DOI pending
 
 <!-- **Authors:** Sumit Barua and Bahar Mahmud -->
