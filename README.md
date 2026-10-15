@@ -1,9 +1,13 @@
 ![EMS-RRI: Applicability-Aware EMS Documentation Completeness](assets/ems-rri-banner.png)
 
 
-Research code accompanying **Applicability-Aware Reliability Scoring and Prediction of EMS Patient-Care Records for Trustworthy Smart Ambulance AI**.
+**Research code accompanying an accepted peer-reviewed manuscript:**
 
-**Authors:** Sumit Barua and Bahar Mahmud
+> **Applicability-Aware Reliability Scoring and Prediction of EMS Patient-Care Records for Trustworthy Smart Ambulance AI**  
+> Sumit Barua, and Bahar Mahmud 
+> *AI* · Accepted 15 October 2026 · Publication DOI pending
+
+<!-- **Authors:** Sumit Barua and Bahar Mahmud -->
 
 ## Overview
 
