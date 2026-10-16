@@ -279,7 +279,7 @@ The full study experiments have not been rerun as part of this release validatio
 
 ### License
 
-This repository's source code is released under the **[MIT License](LICENSE)**. See the [LICENSE](LICENSE) file for details. The BRFSS 2024 dataset is provided by the U.S. Centers for Disease Control and Prevention (CDC) and is not covered by this software license.
+This repository's source code is released under the **[MIT License](LICENSE)**. See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
